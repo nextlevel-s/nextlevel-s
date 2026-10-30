@@ -1,4 +1,4 @@
-# Hi, I'm Victor Gabriel Marinho Santos 👋
+# Hi, I'm Victor Santos 👋
 
 **Quality | Plant Digital QA | Data Science | Automation Engineering | Computer System Validation (CSV)**
 
